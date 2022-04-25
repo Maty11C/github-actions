@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          App de prueba para github actions
+          App de prueba para github actions - Heroku
         </p>
         <a
           className="App-link"
